@@ -1,0 +1,4 @@
+[main]
+rancher_url = https://rancher.example.net
+rancher_token = token-abc:key123
+ssl_verify = true
